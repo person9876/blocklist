@@ -1,9 +1,22 @@
-#c.office.com
-#dbankcloud.com https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
-#lan.sdk.linkedin.com
-#reddit.app.link
-#status.geotrust.com
-#wandoujia.com
+docprairiemgt.com
+cuconntent.com
+btcloud.ro
+asaali.ir
+582ca27d-1af4-4a4d-b642-95dbe8ea23f2-d22c4684.advfiltrations.com
+a69a2280-2b15-4a49-b72f-5f21444f4773-d22c4684.advfiltrations.com
+advfiltrations.com
+apamehnet.com
+alexandriongroup.com
+advfiltrations.com
+admin.n1me.org
+admin.n1me.com
+acteongroups.com
+aae-sgweb001-1.asuscomm.com
+dbankcloud.com
+abuseradar.com
+deepfield.net
+scan.cypex.ai
+icmenet.com
 00.net
 000.link
 00042.com
@@ -9034,6 +9047,7 @@ app.nw6.com
 app.nz26.com
 app.nz6.com
 app.o26.com
+app.partnetboost.com
 app.r26.com
 app.r29.com
 app.rn26.com
@@ -12335,6 +12349,7 @@ busionline.com
 busiphi.com
 busituzi.com
 busnc.com
+bustomthings.com
 busytrade.com
 but7.com
 butair.com
@@ -17038,6 +17053,7 @@ coship.com
 cosize.com
 cosmoplat.com
 cosoar.com
+coson.co.kr
 cosplay8.com
 cosplayla.com
 cos-show.com
@@ -20322,6 +20338,7 @@ drupal001.com
 drupalla.com
 drupalproject.org
 drv.tw
+drvhub.net
 drvi.net
 drvsky.com
 ds.network
@@ -21169,7 +21186,6 @@ ecphk.com
 ecppn.com
 ecqun.com
 ecrrc.com
-ecs.nel.measure.office.net
 ecs004.com
 ecs6.com
 ecsage.net
@@ -24209,6 +24225,7 @@ freqchina.com
 freshhema.com
 fresh-ideas.cc
 freshnewsnet.com
+freja-thecat.com
 frhelper.com
 friendeye.com
 fright-tattoo.com
@@ -38281,6 +38298,7 @@ limikeji.com
 liminglight.com
 liminjie714.com
 liminwang.com
+limitednetwork.xyz
 limkokwingchina.com
 limless.com
 linakesi.com
@@ -45611,6 +45629,7 @@ patent9.com
 patexplorer.com
 patheagames.com
 patmm.com
+partnerboost.com
 patsev.com
 patsnapglobal.com
 paul.pub
@@ -46687,10 +46706,10 @@ privspace.net
 prjdrj.com
 pro40.godaddysites.com
 pro6e.com
+probe.icloud.com
 problem-info.github.io
 procar.cc
 processon.com
-prod.service.minerva.devices.a2z.com
 prodeposit.click
 product.21-sun.com
 product1.djicdn.com
@@ -48925,6 +48944,7 @@ remeins.com
 rememtek.com
 remoteaps.com
 remotedu.com
+remotereachsolutions.buzz
 renaren.com
 renatabonar.com
 rencaiaaa.com
@@ -50592,7 +50612,6 @@ serverlux.ru
 serveroffer.lt
 serveroffer.net
 serveteck.com
-service.minerva.devices.a2z.com
 service.sn.10086.cn
 service-6jxecipe4e.exilien.my
 service-adhoc.dji.com
@@ -52358,6 +52377,7 @@ sketchupbbs.com
 skg.com
 skieer.com
 skight.com
+skims-ch.attn.tv
 skinme.cc
 skip-links.com
 skjcsc.com
@@ -58300,6 +58320,7 @@ viqq.com
 virbox.com
 vircloud.net
 virscan.org
+virtual212.nultatmedia.com
 virtualevent.net
 virusdefender.net
 visa800.com
@@ -58535,6 +58556,7 @@ vsbclub.com
 vsbuys.com
 vsens.com
 vs-gascloud.com
+vservers.es
 vshangdaili.com
 vsharecloud.com
 vsharing.com
@@ -60988,6 +61010,7 @@ wt-px.com
 wts999.com
 wtsimg.com
 wtszx.com
+wtt.net.hk
 wttms.com
 wtu.edu.cn
 wtwvision.com
@@ -77488,6 +77511,7 @@ yareiot.com
 yaristyle.com
 yarnn.com
 yaroslavl.ru
+yashtel.co.in
 yasishuo.com
 yasiyasi.com
 yasking.org
