@@ -24695,10 +24695,6 @@ azsjhf.com
 azt365.com
 azure-wave.com
 azureflying.com
-azuremigrate.download.prss.microsoft.com
-azuremigratetest.download.prss.microsoft.com
-azurestackhub.download.prss.microsoft.com
-azurestackhubuat.download.prss.microsoft.com
 azuretouch.net
 azurew.com
 azureyun.com
@@ -30421,7 +30417,6 @@ cbd0512.com
 cbd263.com
 cbdcn.com
 cbdio.com
-cbdstest.download.prss.microsoft.com
 cbe21.com
 cbea.com
 cbec365.com
@@ -31055,7 +31050,6 @@ cdn-uc.cc
 cdn-usa.skypixel.com
 cdn-v.com
 cdn.fun
-cdn.samsung.com
 cdn.shanghai.nyu.edu
 cdn.show
 cdn.vin
@@ -36349,9 +36343,6 @@ coli688.com
 colineapp.com
 colinker.com
 colipu.com
-collaborate.akamai.com
-collaborate.download.prss.microsoft.com
-collaborateppe.download.prss.microsoft.com
 collect-med.com
 college-ing.com
 college.globalsign.com
@@ -40238,13 +40229,11 @@ dev1.djicdn.com
 dev59.com
 devashen.com
 devask.net
-devblogs.microsoft.com
 devclub.cc
 devedu.net
 develenv.com
 developer.dji.com
 developer.htcvive.com
-developer.microsoft.com
 developer.vive.com
 developers.pub
 develpress.com
@@ -41329,7 +41318,6 @@ dl-kg.com
 dl-meitu.com
 dl-origin.ubnt.com
 dl-rc.com
-dl.delivery.mp.microsoft.com
 dl.djicdn.com
 dl.razerzone.com
 dl.ubnt.com
@@ -41710,8 +41698,6 @@ docoi.cc
 docpe.com
 docs.cdnetworks.com
 docs.djicdn.com
-docs.microsoft.com
-docs.oracle.com
 docschina.org
 docshare.org
 docsj.com
@@ -42218,11 +42204,6 @@ downjoy.com
 downke.com
 downkr.com
 downkuai.com
-download-cn.msi.com
-download.microsoft.com
-download.msi.com
-download.visualstudio.microsoft.com
-download.windowsupdate.com
 downloads.ltd
 downok.com
 downos.com
@@ -42392,8 +42373,6 @@ dreampiggy.com
 dreams-travel.com
 dreamshell.cc
 dreamshowsky.com
-dreamspark.download.prss.microsoft.com
-dreamsparkuat.download.prss.microsoft.com
 drearry.com
 dreawer.com
 drenqils.com
@@ -47924,7 +47903,6 @@ fs-czx.com
 fs-eliza.com
 fs-qiyun.com
 fs-yld.net
-fs.microsoft.com
 fs0757.com
 fs121.com
 fs1982.com
@@ -64384,7 +64362,6 @@ imageplusplus.net
 imagepy.org
 imagerjt.com
 images-cache.com
-images.samsung.com
 images3.tripcdn.com
 imagestoryai.com
 imageter.com
@@ -65519,8 +65496,6 @@ it918.com
 it985.com
 it9g.com
 itab.link
-itacademy.download.prss.microsoft.com
-itacademyuat.download.prss.microsoft.com
 itaconicacid.com
 itaic.org
 itailai.com
@@ -74638,7 +74613,6 @@ leapmie.com
 leapmmw.com
 leapmotor.com
 learn-quantum.com
-learn.microsoft.com
 learndiary.com
 learnfuture.com
 learning-archive.org
@@ -75046,7 +75020,6 @@ lewenqu.com
 lewenss.com
 lewenxsw.com
 lewifi.com
-lex.download.prss.microsoft.com
 lexar.com
 lexed.org
 lexiaigame.com
@@ -75056,7 +75029,6 @@ lexiangzuji.com
 lexin.com
 lexinchina.com
 lexpq.com
-lexuat.download.prss.microsoft.com
 lexue.com
 lexueying.com
 lexun.com
@@ -79359,7 +79331,6 @@ mbmyopia.com
 mbo-china.com
 mboc365.com
 mbokee.com
-mbs.download.prss.microsoft.com
 mbsifu.com
 mbsky.com
 mbwxzx.hk
@@ -81803,9 +81774,6 @@ mpiano.com
 mplus.tech
 mpmc-china.com
 mpmw.com
-mpnbenefits.download.prss.microsoft.com
-mpnbenefitsrtl.download.prss.microsoft.com
-mpnbenefitsrtluat.download.prss.microsoft.com
 mpoa.vip
 mpopkart.com
 mpronnn.com
@@ -81899,13 +81867,11 @@ mscodecloud.com
 mscto.com
 msd-facing.com
 msddp.com
-msdn.download.prss.microsoft.com
 msdn.hk
 msdn.im
 msdnxitong.com
 msdpmarathon.com
 msdprc.com
-msdprod-ad.download.prss.microsoft.com
 msfpay.com
 msftonlinelab.com
 msgamego.com
@@ -81938,7 +81904,6 @@ msny.cc
 msolok.com
 mspacecd.com
 mspharm.com
-msproduct.download.prss.microsoft.com
 msrtvu.net
 msstatic.com
 mst-jc.com
@@ -82670,7 +82635,6 @@ myunke.com
 myunying.com
 myusmile.online
 myvipsalon.com
-myvs.download.prss.microsoft.com
 myvsoncloud.com
 mywakao.com
 mywayboo.net
@@ -85990,8 +85954,6 @@ oemhouse.com
 oemnew.com
 oempromo.com
 oemresource.com
-oemsoc.download.prss.microsoft.com
-oemsocuat.download.prss.microsoft.com
 oeob.net
 oepkgs.net
 oeryt111.fun
@@ -86015,10 +85977,7 @@ officeaid.com
 officeaid02.com
 officebai.com
 officebay.net
-officecdn.microsoft.com
 officectrl.com
-officemkt.download.prss.microsoft.com
-officemktuat.download.prss.microsoft.com
 officese.com
 officesoftcn.com
 officeweb365.com
@@ -86744,7 +86703,6 @@ ospod.com
 osportsmedia.com
 ospp.com
 osredm.com
-osrelease.download.prss.microsoft.com
 oss-cn-beijing-aliyuncs.com
 oss.link
 oss.so
@@ -93762,7 +93720,6 @@ rskjx.com
 rsl.cc
 rslg-china.com
 rslicai.com
-rsm.download.prss.microsoft.com
 rsnschina.com
 rsohvot.xyz
 rsplcdcs.com
@@ -95554,7 +95511,6 @@ sdwlsym.com
 sdwscgs.com
 sdwtqx.com
 sdwtyy.com
-sdx.microsoft.com
 sdxawy.com
 sdxhce.com
 sdxianweisumi.com
@@ -99925,7 +99881,6 @@ softrobottech.com
 softscdn.com
 softsz.com
 softtest.com
-software.download.prss.microsoft.com
 softwarechn.com
 softwarecn.com
 softwarekeyclub.com
@@ -100728,7 +100683,6 @@ ssmysh.com
 ssnewyork.com
 ssnm.xyz
 ssnuo-ch.com
-sso.lenovo.com
 ssofair.com
 ssoffo.com
 ssoouu.com
@@ -101027,8 +100981,6 @@ storcezon.com
 store.dji.com
 store12.com
 storeapi.net
-storecorefulfillment.download.prss.microsoft.com
-storeedgefd.dsx.mp.microsoft.com
 stork-games.com
 storkapp.me
 stormorai.com
@@ -101671,7 +101623,6 @@ suqun-group.com
 surely.cool
 suremotoo.site
 surerp.com
-surface.download.prss.microsoft.com
 surfacetreatmentgroup.com
 surfacetreatmenttechnology.com
 surfcg.com
@@ -104584,7 +104535,6 @@ tgzwmk.xyz
 th-sjy.com
 th-water.net
 th.app
-th.bing.com
 th21333.com
 th38.com
 th99.com
@@ -109464,7 +109414,6 @@ vlinke.com
 vlion.mobi
 vlong.tv
 vlongbiz.com
-vlportal.download.prss.microsoft.com
 vlrzgf.sbs
 vlspirit.com
 vlss.com
@@ -109631,7 +109580,6 @@ volcwaf.com
 volcwaf001.com
 voldp.com
 voleai.com
-volic.download.prss.microsoft.com
 volit.com
 volkswagen-anhui.com
 volleychina.org
@@ -109768,7 +109716,6 @@ vsane.com
 vsaol.com
 vsbclub.com
 vsbuys.com
-vscode.download.prss.microsoft.com
 vscops.com
 vsean.net
 vsearch.club
@@ -109902,7 +109849,6 @@ vyin.com
 vynior.com
 vysj.com
 vyuan8.com
-vz.download.prss.microsoft.com
 vz41.com
 vzan.cc
 vzan.com
@@ -112438,7 +112384,6 @@ wincoprint.net
 wind.ink
 wind.moe
 windaka.com
-windbg.download.prss.microsoft.com
 windcoder.com
 winde.cc
 windesign.cc
@@ -113417,8 +113362,6 @@ wscloudvpn.com
 wsclsb.net
 wscn.net
 wscoder.com
-wscont1.apps.microsoft.com
-wscont2.apps.microsoft.com
 wscrm.net
 wscso.com
 wscstrace.com
@@ -113978,36 +113921,11 @@ www-666789.com
 www-76244.com
 www-api.dji.com
 www-v1.dji.com
-www.adobe.com
-www.akamai.com
-www.alphassl.com
-www.amd.com
-www.analog.com
-www.bing.com
-www.cdnetworks.com
 www.cg
 www.com.my
 www.dell-brand.com
-www.dell.com
 www.dji.com
 www.djivideos.com
-www.epsonconnect.com
-www.globalsign.com
-www.gov.mo
-www.htc.com
-www.htcsense.com
-www.linkedin.com
-www.microsoft.com
-www.netarch.akamai.com
-www.nike.com
-www.nocc.akamai.com
-www.redhat.com
-www.samsung.com
-www.skypixel.com
-www.st.com
-www.tutorabc.com
-www.viveport.com
-www.volvocars.com
 www003xx.com
 www1.djicdn.com
 www2.djicdn.com
@@ -140691,7 +140609,6 @@ arfans.com
 arfid.cn
 arhieason.com
 arhoo.com
-aria.microsoft.com
 ariesmob.com
 arinchina.com
 arisastar.com
@@ -177365,7 +177282,6 @@ photocome.com
 photohn.com
 photoint.net
 photops.com
-photos.microsoft.com
 photosanxia.com
 photozoomchina.com
 phouses.com
@@ -190193,7 +190109,6 @@ wali.com
 walibao.com
 walimaker.com
 walkerdu.com
-walkme.com
 walknode.com
 walkthechat.com
 wallba.com
