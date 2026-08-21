@@ -1,3 +1,45 @@
+algerietelecom.dz
+allpointsfibre.uk
+alliancebroadband.co.in
+aljeel.ly
+aliancanet.net.br
+alfold.net
+alfanet24.pl
+alexhost.com
+alestra.com.mx
+akilecloud.com
+akado-telecom.ru
+ais.co.th
+airwebb.com
+airnetnetworks.com
+airnet.ru
+airnet.com.ua
+airfiber.co.in
+airenetworks.es
+aguianet.net
+agotoz.com
+afrihost.com
+afinet.com.br
+afghantelecom.af
+aapt.com.au
+abissnet.al
+abnet.al
+abrbaranidc.ir
+absgroup.co.in
+abtel.in
+acens.com
+acerdp.io
+acn.net.pk
+adip.co.id
+advantun.com
+advinservers.com
+aeronetonline.in
+aeronetpr.com
+a1.si
+1cent.host
+2connect.com
+31173.se				
+189.cn
 ad.polskiprzemysl.com.pl
 ad.prv.pl
 yusui.conde.digital
@@ -183,7 +225,6 @@ teletektelekom.com
 theateam-telco-app.mschosting.org
 telcel.net.ve
 t.bbfasting.com
-storage.yandexcloud.net
 forms.southernliving.com
 forms.realsimple.com
 forms.marthastewart.com
@@ -209,7 +250,6 @@ metrics-dre.dt.hihonorcloud.com
 browser.events.data.msn.com
 functional.events.data.microsoft.com
 manage.devcenter.microsoft.com
-self.events.data.microsoft.com
 share.microsoft.com
 telecommand.telemetry.microsoft.com
 v10.events.data.microsoft.com
@@ -435,7 +475,6 @@ patterncomputers.com
 pbouids.cn
 pc227-119.opanet.cz
 opanet.cz
-pearl-eu-1316693915.cos.eu-frankfurt.myqcloud.com
 peoples.com.hk
 perm.ertelecom.ru
 petrsu.ru
@@ -530,7 +569,6 @@ o1011991.ingest.us.sentry.io
 o1012037.ingest.us.sentry.io
 o1012665.ingest.sentry.io
 o1013783.ingest.sentry.io
-o101405.ingest.us.sentry.io
 o101443.ingest.sentry.io
 o101443.ingest.us.sentry.io
 o1014544.ingest.sentry.io
@@ -639,7 +677,6 @@ o1067814.ingest.sentry.io
 o1067987.ingest.sentry.io
 o106853.ingest.sentry.io
 o106853.ingest.us.sentry.io
-o1069899.ingest.sentry.io
 o107031.ingest.sentry.io
 o1070411.ingest.sentry.io
 o1070411.ingest.us.sentry.io
@@ -1435,7 +1472,6 @@ o151352.ingest.us.sentry.io
 o151757.ingest.sentry.io
 o151863.ingest.sentry.io
 o151969.ingest.sentry.io
-o151969.ingest.us.sentry.io
 o152071.ingest.sentry.io
 o152167.ingest.sentry.io
 o15235.ingest.sentry.io
@@ -1961,7 +1997,6 @@ o249255.ingest.us.sentry.io
 o249264.ingest.sentry.io
 o249565.ingest.sentry.io
 o249716.ingest.us.sentry.io
-o249840.ingest.sentry.io
 o25032.ingest.sentry.io
 o250603.ingest.sentry.io
 o250847.ingest.sentry.io
@@ -2332,7 +2367,6 @@ o331935.ingest.sentry.io
 o331974.ingest.sentry.io
 o33203.ingest.sentry.io
 o33249.ingest.sentry.io
-o33249.ingest.us.sentry.io
 o332629.ingest.us.sentry.io
 o332853.ingest.sentry.io
 o333052.ingest.sentry.io
@@ -2679,7 +2713,6 @@ o407023.ingest.sentry.io
 o407628.ingest.us.sentry.io
 o407766.ingest.sentry.io
 o40783.ingest.us.sentry.io
-o407926.ingest.us.sentry.io
 o408085.ingest.sentry.io
 o408230.ingest.sentry.io
 o408587.ingest.sentry.io
@@ -4088,7 +4121,6 @@ o4508129547976704.ingest.us.sentry.io
 o4508131019194368.ingest.us.sentry.io
 o4508131579002880.ingest.us.sentry.io
 o4508131598008320.ingest.de.sentry.io
-o4508134825000960.ingest.us.sentry.io
 o4508138072113152.ingest.de.sentry.io
 o4508140441370624.ingest.us.sentry.io
 o4508145564057600.ingest.us.sentry.io
@@ -4374,7 +4406,6 @@ o4509159123058688.ingest.us.sentry.io
 o4509161725165568.ingest.us.sentry.io
 o4509162164453376.ingest.de.sentry.io
 o4509163050827776.ingest.us.sentry.io
-o4509169762697216.ingest.de.sentry.io
 o4509190611140608.ingest.us.sentry.io
 o4509192171945984.ingest.de.sentry.io
 o4509193239658496.ingest.us.sentry.io
@@ -4984,7 +5015,6 @@ o538641.ingest.us.sentry.io
 o53990.ingest.sentry.io
 o540343.ingest.sentry.io
 o540412.ingest.sentry.io
-o540540.ingest.sentry.io
 o541229.ingest.sentry.io
 o541401.ingest.sentry.io
 o541481.ingest.sentry.io
@@ -5046,7 +5076,6 @@ o563053.ingest.sentry.io
 o563350.ingest.us.sentry.io
 o563404.ingest.sentry.io
 o56511.ingest.sentry.io
-o565714.ingest.sentry.io
 o565714.ingest.us.sentry.io
 o565791.ingest.sentry.io
 o566117.ingest.sentry.io
@@ -5102,7 +5131,6 @@ o584403.ingest.us.sentry.io
 o58477.ingest.sentry.io
 o5860.ingest.us.sentry.io
 o58632.ingest.sentry.io
-o58632.ingest.us.sentry.io
 o586391.ingest.sentry.io
 o586512.ingest.sentry.io
 o587224.ingest.sentry.io
@@ -5631,7 +5659,6 @@ o998831.ingest.sentry.io
 o999531.ingest.us.sentry.io
 o999854.ingest.sentry.io
 o999875.ingest.sentry.io
-osupdate2020.shalltry.com
 noam.events.data.microsoft.com
 node3.anycasthub.com
 normandy.cdn.mozilla.net
@@ -5679,7 +5706,6 @@ static.jazztel.es
 upc.zztfly.com
 tgc.zztfly.com
 devc.zztfly.com
-cos.eu-frankfurt.myqcloud.com
 cfgc.zztfly.com
 megadata.net.id
 megared.net.mx
@@ -5744,10 +5770,6 @@ api-eu.instabug.com
 app-manage-api.shalltry.com
 bidmachine.io
 cdn.forter.com
-cdn1.forter.com
-cdn2.forter.com
-cdn3.forter.com
-cdn4.forter.com
 collector-pxzc5j78di.hsprotect.net
 katv1.az
 deinserverhost.de
@@ -5796,7 +5818,6 @@ lantern.roeye.com
 kkkmmmx.online
 keeta-charging.com
 inference.location.live.net
-cas.eu-frankfurt.myqcloud.com
 atm-settingsfe-prod-geo2.trafficmanager.net
 arc.trafficmanager.net
 arc.msn.com
@@ -5813,7 +5834,6 @@ hfghuj.top
 heiji.cc
 hawkbit.devolo.net
 greffier.askarborist.com
-graph-fallback.instagram.com
 goldenencounters.com
 goldenbowlmodel.com
 freedata.online
@@ -6195,7 +6215,6 @@ consent.samsunggrs.com
 fronteradigital.net.ar
 fsm5nftz.cn
 creolink.com
-inalan.gr
 imbook.com.br
 il.comcast.net
 iktelecom.com.br
@@ -6239,7 +6258,6 @@ hch.hchoo.com
 hathway.com
 hostbrr.com
 hk2.censys-scanner.com
-creolink.com
 hostodo.com
 game.axiamnetworks.com
 gascom.net.ru
@@ -6266,8 +6284,6 @@ fwnvyxu.top
 furtvey.cn
 ftth1.leclosdelice.fr
 fttb.planeta.tc
-fsm5nftz.cn
-fronteradigital.net.ar
 free.example.com
 free18.beget.com
 fr.orangecustomers.net
@@ -6405,14 +6421,12 @@ client.m247.ro
 client.tomica.ru
 clientes-izzi.mx
 clientes-zap-izzi.mx
-claro.net.do
 clientes.reverse-euskaltel.es
 clients.irandns.com
 clients.raketa-net.ru
 clients.your-server.de
 cloud.leaseweb.net
 cdn.piano.io
-cloud.leaseweb.net
 colo.transip.net
 col.colettelounge.com
 cloudfly.vn
@@ -6507,7 +6521,6 @@ ada4patas.org
 access.ipnet.ua
 abismochile.cl
 abi.uni2.es
-aapt.com.au
 61-tataidc.co.in
 49-tataidc.co.in
 3bb.in.th
@@ -8128,7 +8141,6 @@ dsu-test.shalltry.com
 0x0.center
 0x00.shop
 0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7.art
-0x01n2ptpuz3.com
 0x0x.co
 0x0x0x0x0.best
 0x0x0x0x0.xyz
@@ -27888,11 +27900,9 @@ ad.period-calendar.com
 ad.phunuxuavanay.vn
 ad.playground.ru
 ad.plus
-ad.polskiprzemysl.com.pl
 ad.pornimg.xyz
 ad.pr.ameba.jp
 ad.profiwin.de
-ad.prv.pl
 ad.qq.com
 ad.queryly.com
 ad.setn.com
@@ -28181,7 +28191,6 @@ adbgz.com
 adbid.pl
 adbidgo.com
 adbiding.com
-adbigline.network
 adbility.com
 adbilty.me
 ad-bin.com
@@ -30346,7 +30355,6 @@ adsfac.us
 adsfactor.net
 adsfancy.com
 adsfast.com
-adsfast.site
 ads-fb.co
 adsflame.com
 adsforapp1.com
@@ -31495,7 +31503,6 @@ adxad.com
 adxadserv.com
 adx-asia.aarki.net
 adxbid.info
-adxcel.com
 adxcorp.kr
 adx-exchancesegu2bn-gibcx.com
 adx-exchange.toast.com
@@ -53541,7 +53548,6 @@ banque-france.info
 banquet231.xyz
 banquet3636.xyz
 banquetshop.hu
-banquetunarmedgrater.com
 banqumusic.com
 banreservasdigital.com
 banri.me
@@ -58904,7 +58910,6 @@ bibplay.de
 bibpond.com
 bibrpenal.xyz
 bibt.edu.cn
-bibugal.network
 bibulustartane.guru
 bibuzhengxing.com
 bibwebshop.com
@@ -68979,7 +68984,6 @@ browsenowaasb98271.monster
 browseopens.com
 browse-opensea.com
 browsepan.cd
-browser.events.data.msn.com
 browseraccelerator.com
 browser-alert-lockedcallimmediately.xyz
 browser-checked.com
@@ -72224,7 +72228,6 @@ bzzpw.com
 bz-zyberswap.com
 c.bannerflow.net
 c.bigmir.net
-c.bing.com
 c.cdn-server.top
 c.citic
 c.cointocl.site
@@ -73888,7 +73891,6 @@ cantoniqroup.com
 cantontower.com
 canttouchtthis.cn
 cantumoda.com
-cantv.net
 cantvenlinea.biz
 cantwaittodate.com
 canuckmethod.com
@@ -76799,7 +76801,6 @@ cdnchatgpt.com
 cdnchushou.com
 cdncl.net
 cdn-cloud.at
-cdn-cloud.club
 cdn-cloud.co.za
 cdncloud.org
 cdn-cloud.pw
@@ -137015,7 +137016,6 @@ fasti.net
 fastidea.cc
 fastidious346.xyz
 fastidiousenvoy.com
-fastimage.site
 fastindexs.com
 fastiv.xyz
 fastkisel.co.ug
@@ -140776,8 +140776,6 @@ fireball15.com
 fireballmail.com
 firebanner.com
 firebasebox.com
-firebaselogging.googleapis.com
-firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firebid.pl
 firebirdequity.com
@@ -146049,7 +146047,6 @@ friendsforlife.in
 friendsfriday.com
 friendship-byartblocks.com
 friendshipgrade.com
-friendshipmale.com
 friendship-match.com
 friendsies.club
 friendsies.pages.dev
@@ -148259,7 +148256,6 @@ fzhxi.com
 fzip.thanhnien.vn
 fzithome.com
 fziwzaalp.com
-fzj3v7sch2xg5gosh60vpkrth5c6cngvj5ivd9kg5ajcdl2vlp2ocj5fjbto.me
 fzjdct.com
 fzjingzhou.com
 fzjxr.com
@@ -148844,7 +148840,6 @@ galerysport.com
 galeyaidful.com
 galfar.com
 galgad0t345.xyz
-galikos.com
 galileounaluna.com
 galinharoxa.com
 galixe.net
@@ -172277,7 +172272,6 @@ hihocoder.com
 hihome.com
 hihonor.com
 hihonorcdn.com
-hihonorcloud.com
 hihope.org
 hihzbz.xyz
 hiibcfr.cn
@@ -175807,7 +175801,6 @@ hoshiboshi.nft-whitelist.com
 hoshiboshi.whitelist-airdrop.com
 hoshinesilicon.com
 hoshiroko.com
-hoshiwa.com
 hoshungrp.com
 hosieryelevate.com
 hosillfir.site
@@ -202541,7 +202534,6 @@ k-amazon.top
 kambasoft.com
 kamboneysos.site
 kamborus.com
-kameleoon.eu
 kamengba.net
 kamenwang.com
 kamernakilyat.com
@@ -217927,7 +217919,6 @@ listguy.com
 listhostcentral.com
 listignite.com
 listingsbluesky.site
-list-manage.com
 list-manage1.com
 list-manage2.com
 list-manage7.net
@@ -277417,7 +277408,6 @@ perienfcefot.top
 perigshfnon.com
 periljuicywary.com
 perilli.com
-perimeterx.net
 perimetor.ru
 perinadesign.com.br
 perinasas.it
@@ -298926,7 +298916,6 @@ reinekre.bazar
 reinekvi.bazar
 reinekyw.bazar
 reinformaln.top
-reingod.com
 reinness.com
 reinspersian.com
 reinstandpointdumbest.com
@@ -300696,7 +300685,6 @@ rethoes.com
 rethynkaus.com
 reticencevaliddecoction.com
 reticulum.ga
-reticulumlyn.com
 retiehe.com
 retillop.shop
 retinaegras.at
@@ -317551,7 +317539,6 @@ shopgenericed.com
 shopgroup.biz
 shopguru365.com
 shophaimy.online
-shophandbag.store
 shophoof.com
 shophousesunshine.com
 shophtgo.com
@@ -319832,7 +319819,6 @@ simpletraffic.co
 simpleview.it
 simpleway.trade
 simpleway.world
-simplewebanalysis.com
 simplex.team
 simplexe.co
 simplexue.com
@@ -321961,7 +321947,6 @@ slinli.com
 slinuxer.com
 slip636.xyz
 slipacard.com
-slipcentral.com
 slipgrow.com
 slipheirphysician.com
 slippery3253.xyz
@@ -322644,7 +322629,6 @@ smbiccard-infoverify.top
 smbinn.com
 smbookobsessions.com
 smbpaasadmin.lenovo.com
-smbpaasadmin.lenovo.com 
 smbproperty.ru
 smbrowntech.com
 smbtechs.com
@@ -353464,7 +353448,6 @@ tubudofirejujek.info
 tubulepas.com
 tubutu.com
 tubzl.org
-tucanastar.com
 tucaojie.com
 tuccioholic.com
 tuchong.com
@@ -354468,7 +354451,6 @@ twinkz4free.com
 twinotter-parts.com
 twinpinenetwork.com
 twinrdack.com
-twinrdsrv.com
 twinrdsyn.com
 twinrdsyte.com
 twinredmedia.com
@@ -368773,20 +368755,16 @@ vzwpix.com
 vzyuphrmanfbks.com
 vzzylo.com
 w.alikunlun.com
-w.alikunlun.com 
 w.biz
 w.cdngslb.com
-w.cdngslb.com 
 w.dragonfly-launcpad.live
 w.kunlunaq.com
 w.kunlunar.com
 w.kunluncan.com
-w.kunluncan.com 
 w.kunlunea.com 
 w.kunlungr.com
 w.kunlunle.com
 w.kunlunpi.com
-w.kunlunpi.com 
 w.kunlunsl.com
 w.kunlunso.com
 w.solutionprotocolfix.buzz
@@ -405160,7 +405138,6 @@ xy36z.com
 xy3yy.com
 xy58.net
 xy599.com
-xy6664.com
 xy77.live
 xy78.com
 xy7elite.com
@@ -406919,7 +406896,6 @@ ycyaw.com
 ycychr.com
 ycyck.com
 ycycut.com
-ycycut.com 
 ycyhhx.com
 ycyhzx.com
 yc-yinhe.com
@@ -417100,7 +417076,6 @@ zetachains-drop.com
 zetachains-drops.com
 zetacn.com
 zetadataclub.xyz
-zetadeo.com
 zetaevent.site
 zetafoto.pl
 zetaijituan.com
@@ -423424,7 +423399,6 @@ zxavxgjcjmkh.com
 zxb12315.com
 zxblinux.com
 zxbook.net
-zxbook.net 
 zxbzr.com
 zxc.world
 zxc56fx.com
