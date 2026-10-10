@@ -1,6 +1,73 @@
 [Adblock Plus 2.0]
 ! Title: Converted list
-! Generated: 2026-08-21 21:55:34
+! Generated: 2026-10-11 00:43:22
+||biglobe.co.jp^
+||bindnetrj.com.br^
+||bitcommand.com^
+||babilon-t.com^
+||bahnhof.se^
+||banatsync.com^
+||bandwidth.co.uk^
+||baseip.com^
+||bashtel.ru^
+||bayobab.africa^
+||bbi.net.pk^
+||beeline.kz^
+||beeline.ru^
+||beeonline.az^
+||beget.com^
+||bestlink.in.ua^
+||bezeqint.net^
+||bhola.net^
+||bhtelecom.ba^
+||bigcore.net^
+||axsbolivia.com^
+||axtel.mx^
+||azintelecom.az^
+||aztelekom.az^
+||arlab.com.ar^
+||arosscloud.com^
+||arsma.pl^
+||arte-fact.net^
+||arvancloud.ae^
+||arvancloud.ir^
+||as35100.net^
+||as49434.net^
+||as49447.net^
+||as979.net^
+||asahi-net.jp^
+||ashylanet.com^
+||askit.cc^
+||asline.net^
+||astound.com^
+||atenasnetworks.com.br^
+||athamedia.net^
+||ativatelecomunicacoes.com.br^
+||atlantiquetelecom.net^
+||atom.com.mm^
+||ava.hosting^
+||avelia.it^
+||awas.ovh^
+||awm.do^
+||arenhost.com^
+||argonhost.com^
+||antel.com.uy^
+||aoiot.ru^
+||apelsin-it.com^
+||appliwave.com^
+||arana.net.id^
+||arbital.ru^
+||arbornetworks.com^
+||alphafibernet.in^
+||alphastrike.io^
+||altunhost.com^
+||alwk.cc^
+||amanah.com^
+||amberit.com.bd^
+||amur.ru^
+||an-net.ru^
+||angolacables.co.ao^
+||anmax.cl^
 ||algerietelecom.dz^
 ||allpointsfibre.uk^
 ||alliancebroadband.co.in^
@@ -391,7 +458,6 @@
 ||spadenose.com^
 ||server.digitalspoint.com^
 ||server.agileprivateenterprisellc.com^
-||sba.keys.ohttp.prod.via.google^
 ||scan.f6^
 ||scan.leakix.org^
 ||scanf.shodan.io^
@@ -515,7 +581,6 @@
 ||obl.wallle.cn^
 ||ocn.ne.jp^
 ||ofertadasorte.com.br^
-||ohttp-relay1.fastly-edge.com^
 ||ok.cox.net^
 ||okcbok.sbcglobal.net^
 ||opentip.kaspersky.com^
@@ -5823,7 +5888,6 @@
 ||inference.location.live.net^
 ||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||arc.trafficmanager.net^
-||arc.msn.com^
 ||js.sentry-cdn.com^
 ||js-de.sentry-cdn.com^
 ||jambobo.com^
@@ -36312,7 +36376,6 @@
 ||ali-exporter.com^
 ||aliexpress.ooo^
 ||aliexpress.ru^
-||aliexpress.us^
 ||ali-express1.at^
 ||aliexpresscn.net^
 ||aliexpress-media.com^
@@ -36518,7 +36581,6 @@
 ||aliyuncdn.net^
 ||aliyunceng.com^
 ||aliyuncname.xyz^
-||aliyuncs.com^
 ||aliyuncss.com^
 ||aliyuncsslb.com^
 ||aliyuncsslbintl.com^
@@ -43694,7 +43756,6 @@
 ||aq7ua5ma85rddeinve.com^
 ||aqadelics.com^
 ||aqamail.com^
-||aqara.com^
 ||aqawzxeg.com^
 ||aqb.so^
 ||aqbly.com^
@@ -71808,7 +71869,6 @@
 ||bycmw.com^
 ||byd.auto^
 ||byd.cn^
-||byd.com^
 ||bydfbj.com^
 ||bydglobal.com^
 ||bydhaiyang.com^
@@ -87024,7 +87084,6 @@
 ||cloudiiv.com^
 ||cloudimagesa.com^
 ||cloudimagesb.com^
-||cloudinary.com^
 ||clouding-world.online^
 ||cloudinha.website^
 ||cloudinnov.com^
@@ -93805,7 +93864,6 @@
 ||cookieinformation.com^
 ||cookieinfoscript.com^
 ||cookiejar.be^
-||cookielaw.org^
 ||cookie-law-enforcement-aa.xyz^
 ||cookie-law-enforcement-bb.xyz^
 ||cookie-law-enforcement-cc.xyz^
@@ -206529,7 +206587,6 @@
 ||kmail.host^
 ||kmail.li^
 ||k-mail.top^
-||kmail-lists.com^
 ||kmajjue.com^
 ||km-americanschool.com^
 ||kmaoxx.com^
@@ -208291,8 +208348,6 @@
 ||krompakan.xyz^
 ||kromtech.net^
 ||kronen-apotheke-schweinfurt-app.de^
-||krones.com^
-||krones-group.com^
 ||kronika-miasta.website^
 ||kronikamiastt.online^
 ||kroniks.com^
@@ -250880,7 +250935,6 @@
 ||mypyxpuo.com^
 ||mypyx-puo.com^
 ||myqatar.com^
-||myqcloud.com^
 ||myqcloud.net^
 ||myqee.com^
 ||myqiantu.com^
@@ -275564,7 +275618,6 @@
 ||paypalmoneyadder.org^
 ||paypal-moneypay.com^
 ||paypalobjacts.com^
-||paypalobjects.com^
 ||paypalonlineservicesupport.com^
 ||paypal-opladen.be^
 ||paypal-opwaarderen.nl^
@@ -356561,7 +356614,6 @@
 ||ugmcd.com^
 ||ugmjd.com^
 ||ugmovxfikvhct.com^
-||ugnas.com^
 ||ugnodon1.com^
 ||ugnsblfw.com^
 ||ugnx.net^
